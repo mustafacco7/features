@@ -7,7 +7,7 @@ Installs Java, SDKMAN! (if not installed), and needed dependencies.
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/features/java:1": {}
+    "ghcr.io/mustafacco7/features/java:1": {}
 }
 ```
 
@@ -47,4 +47,4 @@ Debian/Ubuntu, RedHat Enterprise Linux, Fedora, Alma, and RockyLinux distributio
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/java/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/mustafacco7/features/blob/main/src/java/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

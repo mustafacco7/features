@@ -7,7 +7,7 @@ Adds a lightweight Fluxbox based desktop to the container that can be accessed u
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/features/desktop-lite:1": {}
+    "ghcr.io/mustafacco7/features/desktop-lite:1": {}
 }
 ```
 
@@ -106,4 +106,4 @@ This Feature should work on recent versions of Debian/Ubuntu-based distributions
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/desktop-lite/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/mustafacco7/features/blob/main/src/desktop-lite/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

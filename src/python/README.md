@@ -7,7 +7,7 @@ Installs the provided version of Python, as well as PIPX, and other common Pytho
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/features/python:1": {}
+    "ghcr.io/mustafacco7/features/python:1": {}
 }
 ```
 
@@ -44,4 +44,4 @@ This Feature should work on recent versions of Debian/Ubuntu, RedHat Enterprise 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/python/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/mustafacco7/features/blob/main/src/python/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
